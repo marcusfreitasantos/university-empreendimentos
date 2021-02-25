@@ -1,5 +1,5 @@
-# unviversity-empreendimentos
-Site da Unviersity Empreendimentos feito no WebFlow
+# university-empreendimentos
+Site da University Empreendimentos feito no WebFlow
 
 Este site foi desenvolvido usando a plataforma Webflow e após sua conclusão
 foi feito a migração do projeto para o servidor da empresa.
